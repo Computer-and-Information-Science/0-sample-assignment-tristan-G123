@@ -12,5 +12,5 @@ int main () {
   cin >> second;
   //adds both first and second together
   sum = first + second;
-  cout << "/nThe sum is " << sum << "." << endl;
+  cout << "\nThe sum is " << sum << "." << endl;
 }
