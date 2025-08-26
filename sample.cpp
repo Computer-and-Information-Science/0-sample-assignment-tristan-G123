@@ -11,6 +11,6 @@ int main () {
   cout << "Enter second integer: ";
   cin >> second;
   //adds both first and second together
-  sum = first + second;
+  int sum = first + second;
   cout << "\nThe sum is " << sum << "." << endl;
 }
